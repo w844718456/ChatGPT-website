@@ -6,7 +6,7 @@ SECRET_KEY = "asghnjadfbtywyn"
 OPENAI_API_KEY = "sk-riMHZFUexmdX9cPS1766D7A6FeD14dBbB539Ba9aAc6b8bD5"
 
 # openAi 官方 api
-URL = "https://api.openai.com/v1/chat/completions"
+#URL = "https://api.openai.com/v1/chat/completions"
 
 # openAi 代理 api
-# URL = "https://oneapi.xty.app"
+ URL = "https://oneapi.xty.app"
