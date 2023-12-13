@@ -9,4 +9,4 @@ OPENAI_API_KEY = ""
 URL = "https://api.openai.com/v1/chat/completions"
 
 # openAi 代理 api
-# URL = "https://cx.xty.app"
+# URL = "https://oneapi.xty.app"
